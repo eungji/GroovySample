@@ -1,5 +1,3 @@
-@Grab("thymeleaf-spring4")
-
 @Controller
 class App {
 
